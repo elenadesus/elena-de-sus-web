@@ -1,5 +1,5 @@
 ---
-title: "'Nuestro futuro más próximo es una pesadilla'"
+title: "\"Nuestro futuro más próximo es una pesadilla\""
 tags: crónicas
 ---
 #### La huelga global de estudiantes por el clima reúne en Madrid a miles de jóvenes preocupados por el cambio climático y la crisis ecológica
