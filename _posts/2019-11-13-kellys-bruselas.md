@@ -1,5 +1,5 @@
 ---
-title: "'Nos subleva que se nos siga pisoteando'"
+title: "\"Nos subleva que se nos siga pisoteando\""
 tags: crónicas
 ---
 #### Representantes de las Kellys acudieron a Bruselas para denunciar los abusos en el sector y presentar a la Comisión Europea un proyecto de directiva. Obtuvieron empatía y comprensión
