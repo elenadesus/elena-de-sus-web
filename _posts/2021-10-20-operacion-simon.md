@@ -5,4 +5,4 @@ Tras haber sido invitada a La Moncloa para pronunciar un discurso ante el presid
 
 Sus exaltaciones sabatinas de la familia tradicional, el matrimonio, la Hispanidad, el catolicismo, la paz social y otros conceptos profundamente transgresores, publicadas en las páginas del gran diario progre de España, producen exasperación en una parte de los lectores, algunos de los cuales así lo expresan en las redes sociales. 
 
-Columna completa en [CTXT](https://ctxt.es/es/20211001/Firmas/37602/aguacate-Ana-Iris-Simon-familia-precariedad-redes-sociales.htm)
+Columna completa en [CTXT](https://ctxt.es/es/20211001/Firmas/37602/aguacate-Ana-Iris-Simon-familia-precariedad-redes-sociales.htm).
