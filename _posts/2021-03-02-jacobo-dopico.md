@@ -1,5 +1,5 @@
 ---
-title: "Jacobo Dopico: 'Los sentimientos heridos no pueden ser la base para una limitación de la libertad de expresión'"
+title: "Jacobo Dopico: \"Los sentimientos heridos no pueden ser la base para una limitación de la libertad de expresión\""
 tags: entrevistas
 ---
 Jacobo Dopico (Vigo, 1972) es catedrático de Derecho Penal y profesor en la Universidad Carlos III de Madrid, donde dirige el Grupo de Trabajo sobre la Libertad de Expresión. En diciembre este equipo presentó [LibEx.es](https://libex.es/), una herramienta online que recopila jurisprudencia y claves de interpretación de los delitos relacionados con actos de opinión para ayudar a los operadores jurídicos dándoles acceso a los estándares constitucionales y europeos de protección de la libertad de expresión.
