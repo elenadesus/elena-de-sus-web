@@ -1,2 +1,2 @@
 
-Escribo cosas. Son estas:
+Las cosas que escribo. Columnas, entrevistas, reportajes, crónicas...
