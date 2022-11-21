@@ -1,5 +1,5 @@
 ---
-title: "Márcia Tiburi: \"Brasil se especializó en la esclavitud. Y el resultado es un racismo inmenso"
+title: "Márcia Tiburi: \"Brasil se especializó en la esclavitud. Y el resultado es un racismo inmenso\""
 
 
 Márcia Tiburi (Vacaria, Brasil, 1970) es doctora en Filosofía, artista plástica y escritora. En 2015 publicó un libro de título provocativo, Cómo conversar con un fascista, en el que abogaba por la creación de una cultura del diálogo para defender la democracia de lo que percibía como un incipiente proyecto social de extrema derecha. “Me llamaban exagerada”, dice. Sus ideas resultaron premonitorias, ya que al año siguiente Donald Trump alcanzaba la presidencia de los Estados Unidos y en 2018 se convertía en presidente de su país Jair Bolsonaro, al que no duda en calificar de fascista.
