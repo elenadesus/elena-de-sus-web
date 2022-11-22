@@ -10,4 +10,4 @@ Nací en Huesca en 1996. Estudié Periodismo en la Universidad Complutense de Ma
 
 Hablo inglés y francés con la claridad suficiente para mantener una conversación. 
 
-Me puedes encontrar en [Twitter], [Mastodon] y [Linkedin] o [Onlyfans]. O enviarme un mail a [elena@ctxt.es](elena@ctxt.es)
+Me puedes encontrar en [Twitter], [Mastodon] y [Linkedin]. O enviarme un mail a [elena@ctxt.es](elena@ctxt.es)
