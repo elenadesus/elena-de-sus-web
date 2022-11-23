@@ -8,6 +8,6 @@ Trabajo desde 2018 en la redacción de CTXT, donde, además de publicar la mayor
 
 Nací en Huesca en 1996. Estudié Periodismo en la Universidad Complutense de Madrid, ciudad en la que he vivido siete años. También he estado en Bruselas, de Erasmus en la ULB. La caótica capital belga tiene un hueco en mi corazoncito. Ahora vivo en Málaga.
 
-Hablo inglés y francés con la claridad suficiente para mantener una conversación. 
+Hablo inglés y francés. 
 
-Me puedes encontrar en [Twitter](https://twitter.com/elena_sg), [Mastodon](https://mastodon.world/@elenadesus) y [Linkedin](https://es.linkedin.com/in/elena-de-sus-gobantes-43410bba). O enviarme un mail a [elena@ctxt.es](elena@ctxt.es)
+Me puedes encontrar en [Twitter](https://twitter.com/elena_sg), [Mastodon](https://mastodon.world/@elenadesus) y [Linkedin](https://es.linkedin.com/in/elena-de-sus-gobantes-43410bba). 
