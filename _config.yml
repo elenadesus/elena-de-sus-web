@@ -16,6 +16,12 @@ mastodon:
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
+plugins:
+ - jekyll-paginate
+ 
+paginate: 5
+paginate_path: "/page:num/"
+
 lang: es
 
 theme: minima
