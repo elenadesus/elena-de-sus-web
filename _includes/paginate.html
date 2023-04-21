@@ -1,25 +1,25 @@
-{% if paginator.total_pages > 1 %}
-  <nav class="pagination" role="navigation">
+<div class="pagination">
+  {% if paginator.total_pages > 1 %}
     {% if paginator.previous_page %}
-      <a class="pagination__prev" href="{{ paginator.previous_page_path | prepend: site.baseurl }}" rel="prev">&lsaquo; Prev</a>
+      <a href="{{ paginator.previous_page_path }}" class="previous-page">&laquo; Prev</a>
     {% else %}
-      <span class="pagination__prev">&lsaquo; Prev</span>
+      <span class="previous-page disabled">&laquo; Prev</span>
     {% endif %}
 
     {% for page in (1..paginator.total_pages) %}
       {% if page == paginator.page %}
-        <span class="pagination__page pagination__page--current">{{ page }}</span>
+        <span class="page-number current-page">{{ page }}</span>
       {% elsif page == 1 %}
-        <a class="pagination__page" href="{{ '/' | prepend: site.baseurl }}">{{ page }}</a>
+        <a href="{{ '/' | relative_url }}" class="page-number">{{ page }}</a>
       {% else %}
-        <a class="pagination__page" href="{{ '/page' | prepend: site.baseurl }}/{{ page }}">{{ page }}</a>
+        <a href="{{ '/page' | append: page | relative_url }}" class="page-number">{{ page }}</a>
       {% endif %}
     {% endfor %}
 
     {% if paginator.next_page %}
-      <a class="pagination__next" href="{{ paginator.next_page_path | prepend: site.baseurl }}" rel="next">Next &rsaquo;</a>
+      <a href="{{ paginator.next_page_path }}" class="next-page">Next &raquo;</a>
     {% else %}
-      <span class="pagination__next">Next &rsaquo;</span>
+      <span class="next-page disabled">Next &raquo;</span>
     {% endif %}
-  </nav>
-{% endif %}
+  {% endif %}
+</div>
