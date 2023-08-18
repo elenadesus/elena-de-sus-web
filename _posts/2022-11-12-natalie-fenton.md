@@ -15,4 +15,4 @@ Hablamos con ella sobre concentración mediática, redes sociales y política de
 
 Mi argumento es sobre la concentración de la propiedad de los medios. Mucha gente piensa que no es tan importante, porque el poder de los grandes medios, de los medios tradicionales, se ha disuelto por la abundancia de información online. Existe esa idea de que tenemos más información que nunca en ese enorme archivo que es la web, que podemos googlear cualquier cosa que necesitemos saber. Pero de lo que no se dan cuenta es de que la mayor parte de la información que circula por internet procede de esos mismos medios tradicionales. Es la misma información, troceada o reformulada con ciertos propósitos, pero su origen está en los medios.
 
-Entrevista completa en [CTXT](https://ctxt.es/es/20221101/Politica/41263/Elena-de-Sus-entrevista-Natalie-Fenton-comunicacion-medios-redes-sociales-manipulacion.htm).
+*Entrevista completa en [CTXT](https://ctxt.es/es/20221101/Politica/41263/Elena-de-Sus-entrevista-Natalie-Fenton-comunicacion-medios-redes-sociales-manipulacion.htm).*
