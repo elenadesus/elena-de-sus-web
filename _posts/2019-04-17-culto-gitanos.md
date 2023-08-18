@@ -10,4 +10,4 @@ En nuestro país, según la Federación de Entidades Religiosas Evangélicas de 
 
 Nos acercamos a uno de los grupos más relevantes en España, la Iglesia Evangélica de Filadelfia, que fue fundada por gitanos y cuya influencia crece rápidamente en esta comunidad. Aseguran que no se posicionan en política, pero que todos los partidos han contactado con ellos.
 
-Artículo completo en [CTXT](https://ctxt.es/es/20190417/Politica/25671/gitanos-iglesia-evangelica-de-filadelfia-israel-madrid-elena-de-sus.htm).
+*Artículo completo en [CTXT](https://ctxt.es/es/20190417/Politica/25671/gitanos-iglesia-evangelica-de-filadelfia-israel-madrid-elena-de-sus.htm)*.
