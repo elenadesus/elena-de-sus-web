@@ -11,4 +11,4 @@ Puede ser una oportunidad. Supongo que como mínimo es una valiosa lección sobr
 
 Hay una historia más larga aquí, claro, que es la de la comercialización de la esfera mediática. De los periódicos, la radio y la televisión. A lo largo de la historia de los medios, hemos asistido a un conflicto real entre los imperativos comerciales y la capacidad de ofrecer información útil, correcta, relevante y fiable al público. Los medios tienen un potencial que está inhibido por la dinámica comercial.
 
-Entrevista completa en [CTXT](https://ctxt.es/es/20221201/Politica/41572/ben-tarnoff-internet-for-the-people-facebook-extrema-derecha.htm).
+*Entrevista completa en [CTXT](https://ctxt.es/es/20221201/Politica/41572/ben-tarnoff-internet-for-the-people-facebook-extrema-derecha.htm).*
