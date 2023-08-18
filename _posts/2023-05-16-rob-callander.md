@@ -13,4 +13,4 @@ Obviamente, hay montones de campañas dentro de XR. Hay campañas locales, regio
 
 Bloqueamos calles con autobuses llenos de gente… Muchas de las cosas que hemos hecho tienen que ver con reclamar el espacio y expresar la necesidad de un cambio político. En el corazón de la crisis climática, de la emergencia climática y ecológica que llamamos crisis, hay un escándalo político.
 
-Entrevista completa en [CTXT](https://ctxt.es/es/20230501/Politica/42949/rob-callander-extinction-rebellion-reino-unido-ecologismo.htm).
+*Entrevista completa en [CTXT](https://ctxt.es/es/20230501/Politica/42949/rob-callander-extinction-rebellion-reino-unido-ecologismo.htm).*
