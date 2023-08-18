@@ -8,4 +8,4 @@ Situado en el Parque Natural de Posets-Maladeta, en el valle de Benasque (Huesca
 
 Cambia bastante según la época del año. La gente que va en invierno o primavera suele ir más preparada, es más consciente de lo que es la alta montaña. Ahora, en verano, el perfil es más de gente que desconoce el medio, menos preparada en cuanto a material y en los aspectos técnico y físico.
 
-Artículo completo en [CTXT](https://ctxt.es/es/20190731/Politica/27150/Elena-de-Sus-entrevista-Chemary-Carrera-Benasque-Aneto-turismo.htm).  Esta entrevista se publicó en el [Dobladillo del verano de 2019](https://agora.ctxt.es/producto/el-dobladillo-26-verano), dedicado al turismo.
+*Artículo completo en [CTXT](https://ctxt.es/es/20190731/Politica/27150/Elena-de-Sus-entrevista-Chemary-Carrera-Benasque-Aneto-turismo.htm).  Esta entrevista se publicó en el [Dobladillo del verano de 2019](https://agora.ctxt.es/producto/el-dobladillo-26-verano), dedicado al turismo*.
