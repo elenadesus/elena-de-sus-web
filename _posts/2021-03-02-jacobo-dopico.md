@@ -10,4 +10,4 @@ En un momento en el que la restricción del discurso está de plena actualidad, 
 
 La idea surge a partir de la preocupación de un grupo de académicos y juristas por el incremento de los procedimientos penales en materia de actos de expresión. Nos preocupaba que, aunque la mayoría no terminan en condena, este aumento de las causas penales introduce un elemento de intimidación que lleva a la autocensura en ámbitos como el cultural o el satírico.
 
-Entrevista completa en [CTXT](https://ctxt.es/es/20210201/Politica/34932/jacobo-dopico-libex-libertad-de-expresion-tedh-elena-de-sus.htm).
+*Entrevista completa en [CTXT](https://ctxt.es/es/20210201/Politica/34932/jacobo-dopico-libex-libertad-de-expresion-tedh-elena-de-sus.htm)*.
