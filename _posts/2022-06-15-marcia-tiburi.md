@@ -14,4 +14,4 @@ Me gustó mucho intercambiar ideas con Andrea y Patricia y hacer esta comparaci�
 
 Sí. Tenemos una historia común. Es una historia de sufrimiento, la de la colonización, que no podemos olvidar. Lo que vivimos hoy son las consecuencias de esa historia, problemas sociales y económicos que no han sido resueltos del todo.
 
-Entrevista completa en [CTXT](https://ctxt.es/es/20220601/Politica/39940/marcia-tiburi-fascismo-brasil-jair-bolsonaro-lula-da-silva.htm).
+*Entrevista completa en [CTXT](https://ctxt.es/es/20220601/Politica/39940/marcia-tiburi-fascismo-brasil-jair-bolsonaro-lula-da-silva.htm).*
