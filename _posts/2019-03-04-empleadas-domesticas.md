@@ -9,3 +9,5 @@ Graciela Gallego dejó su Colombia natal rumbo a España en julio de 2001. Tení
 Llegó un sábado y el lunes ya tenía trabajo. Lleva dieciocho años como empleada doméstica interna, cuidando de personas mayores. “Es el nicho laboral que encuentras”, explica. “La Ley de Extranjería nos tiene ahorcadas”.
 
 Artículo completo en [CTXT](https://ctxt.es/es/20190220/Politica/24698/Elena-de-sus-empleadas-domesticas-abandono-aislamiento-condiciones-precarias.htm). Este tema se publicó en papel en el [Dobladillo de marzo de 2019](https://agora.ctxt.es/producto/el-dobladillo-24-marzo), dedicado al 8M.
+
+*Nota: Actualmenente las trabajadoras de hogar y cuidados organizadas rechazan el término “empleadas domésticas”*.
