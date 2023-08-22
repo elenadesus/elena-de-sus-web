@@ -5,4 +5,4 @@ En _Hombres fuera de serie_ \[sic] (Ariel, 2014), el periodista Brett Martin cue
 
 Estas condiciones dieron lugar a lo que Martin llama “la tercera edad de oro de la televisión” con grandes series como _Los Soprano_ (1999), _Mad Men_ (2007) o _Breaking Bad_ (2008). Más adelante, otras quisieron seguir su estela, como _Peaky Blinders_ (2013) o _Vikingos_ (2013), mientras el mercado de las plataformas de contenido a la carta se desarrollaba. Muchas de estas series cuentan, de forma visualmente explícita, historias duras y complejas protagonizadas por hombres carismáticos y moralmente turbios, que pueden encajar en el mito del emprendedor. 
 
-Columna completa en [CTXT](https://ctxt.es/es/20211201/Firmas/38104/shrek-juego-del-calamar-series-succesion-elena-de-sus.htm).
+*Artículo completo en [CTXT](https://ctxt.es/es/20211201/Firmas/38104/shrek-juego-del-calamar-series-succesion-elena-de-sus.htm)*.

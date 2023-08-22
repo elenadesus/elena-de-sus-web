@@ -7,4 +7,4 @@ El Consejo de Colegios Mayores Universitarios de España contabiliza en su web 1
 
 Cada uno de estos colegios mayores ha desarrollado una cultura, una idiosincrasia distinta del resto. Se podría decir que el alcohol, los rituales, las novatadas y las jerarquías (con alguna excepción), el deporte, las actividades en grupo y un fuerte sentido de comunidad forman el acervo común, lo que diferencia a un colegio mayor de una vulgar “residencia” (palabra tabú en ese ámbito).
 
-Columna completa en [CTXT](https://ctxt.es/es/20221001/Firmas/41009/Elena-de-Sus-colegios-mayores-Complutense-machismo-Elias-Ahuja-Santa-Monica-novatadas.htm).
+*Artículo completo en [CTXT](https://ctxt.es/es/20221001/Firmas/41009/Elena-de-Sus-colegios-mayores-Complutense-machismo-Elias-Ahuja-Santa-Monica-novatadas.htm).*
