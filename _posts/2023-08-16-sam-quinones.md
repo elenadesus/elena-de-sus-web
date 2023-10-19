@@ -11,6 +11,6 @@ Atiende a CTXT por videollamada durante un paseo matutino.
 
 **Todo comenzó en el sistema sanitario, a partir de la prescripción masiva de opioides, en especial uno llamado Oxycontin, si no me equivoco**.
 
-Sí, ese es el tema de mi primer libro, Tierra de sueños. Comenzó a mediados de los 90. Hubo una gran presión por parte de los especialistas en el tratamiento del dolor, junto con las empresas farmacéuticas, para expandir el uso de los opioides. Había una cierta evidencia científica de que esas drogas no ponían en riesgo de adicción a las personas que sufrían dolor, lo cual ahora sabemos que es cierto en algunos casos, pero no en muchos otros. De esta forma, las pastillas se distribuyeron por casi todo el país.
+Sí, ese es el tema de mi primer libro, *Tierra de sueños*. Comenzó a mediados de los 90. Hubo una gran presión por parte de los especialistas en el tratamiento del dolor, junto con las empresas farmacéuticas, para expandir el uso de los opioides. Había una cierta evidencia científica de que esas drogas no ponían en riesgo de adicción a las personas que sufrían dolor, lo cual ahora sabemos que es cierto en algunos casos, pero no en muchos otros. De esta forma, las pastillas se distribuyeron por casi todo el país.
 
 *Entrevista completa en [CTXT](https://ctxt.es/es/20230801/Politica/43807/Elena-de-Sus-entrevista-Sam-Quinones-fentanilo-eeuu-opiaceos-adiccion.htm).*
