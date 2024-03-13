@@ -1,5 +1,5 @@
 ---
-title: "Ana Valdivia: \"Si el algoritmo es racista es porque se ha entrenado con datos racistas"\"
+title: "Ana Valdivia: \"Si el algoritmo es racista es porque se ha entrenado con datos racistas\""
 ---
 Ana Valdivia (Barcelona, 1990) es profesora e investigadora en Inteligencia Artificial, Gobierno y Políticas en el Oxford Internet Institute de la Universidad de Oxford. Matemática e informática, ha estudiado la influencia en las sociedades de la recopilación masiva de datos o el uso de algoritmos en las fronteras. Actualmente su trabajo se centra en los impactos medioambientales y sociales de la inteligencia artificial. Colabora con organizaciones como AlgoRace, que analiza los usos de la IA desde una perspectiva antirracista, y escribe en el blog La paradoja de Jevons. Atiende a CTXT por videoconferencia.
 
