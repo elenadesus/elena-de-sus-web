@@ -13,4 +13,4 @@ En esta definición de la ley europea también se explica que hay diferentes té
 
 ¿Hasta dónde puede llegar esta tecnología? Pues eso depende de la sociedad y de las manos en las que caiga. Yo publiqué un escrito en 2020 en el que hablaba sobre los mitos de la inteligencia artificial. Predecía que en los siguientes años los avances de la inteligencia artificial iban a recaer en manos de empresas privadas porque son las que tienen la capacidad de pagar la infraestructura para entrenar algoritmos como ChatGPT. Y es lo que está pasando. Desde las universidades ya nos hemos quedado muy cortas porque no tenemos esa capacidad computacional.
 
-*Entrevista completa en [CTXT](https://ctxt.es/es/20240201/Politica/45542/Elena-de-sus-entrevista-Ana-Valdivia-investigadora-inteligencia-artificial-datos-sesgos.htm)*
+*Entrevista completa en [CTXT].(https://ctxt.es/es/20240201/Politica/45542/Elena-de-sus-entrevista-Ana-Valdivia-investigadora-inteligencia-artificial-datos-sesgos.htm)*
