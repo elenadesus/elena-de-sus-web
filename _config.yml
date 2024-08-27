@@ -19,7 +19,7 @@ show_excerpts: false # set to false to remove excerpts on the homepage
 plugins:
  - jekyll-paginate
  
-paginate: 5
+paginate: 10
 paginate_path: "/page:num/"
 
 lang: es
