@@ -10,4 +10,4 @@ He vivido siete años en Madrid y uno en Bruselas. Ahora estoy en Málaga.
 
 Hablo inglés y francés. 
 
-Me puedes encontrar en [X](https://twitter.com/elena_sg), [Mastodon](https://mastodon.world/@elenadesus) y [Linkedin](https://es.linkedin.com/in/elena-de-sus-gobantes-43410bba). 
+Me puedes encontrar en [Bluesky](https://bsky.app/profile/elenadesus.bsky.social), [Mastodon](https://mastodon.world/@elenadesus), [Linkedin](https://es.linkedin.com/in/elena-de-sus-gobantes-43410bba) y [X](https://twitter.com/elena_sg). 
