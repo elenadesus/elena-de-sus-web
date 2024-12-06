@@ -11,7 +11,7 @@ description: > # this means to ignore newlines until "baseurl:"
 # social links
 bluesky: 
 - username: elenadesus
-- provider: bsky.social
+  provider: bsky.social
 twitter_username:  elena_sg # DO NOT include the @ character, or else the build will fail!
 mastodon:
 - username: elenadesus
