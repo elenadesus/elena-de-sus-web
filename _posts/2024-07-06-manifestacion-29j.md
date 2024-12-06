@@ -8,4 +8,5 @@ Esta es la premisa del cortometraje *La Banda*, dirigido por Leo Jiménez y Deli
 En los vídeos promocionales de las Málaga Towers de Metrovacesa, protagonizados por Antonio Banderas, la playa de la Misericordia tiene una arena limpia y clara y es ocupada por personas jóvenes, de belleza canónica, que se divierten solas, en pareja o en pequeños grupos.
 
 Poco que ver con la realidad que habrán encontrado sus primeros habitantes: una playa salpicada de piedras, que aún alberga residuos de la antigua fundición de plomo, donde las familias de la zona acuden a pasar el día equipadas con sillas, mesas, altavoces, bolsas y neveritas. Una playa cuyas fuentes y duchas se cortaron el verano pasado por la sequía y está por ver si volverán a activarse en algún momento.
+
 *Artículo completo en [CTXT](https://ctxt.es/es/20240701/Politica/46919/Elena-de-Sus-Malaga-gentrificacion-crisis-de-vivienda-manifestacion-turismo.htm)*.
