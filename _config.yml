@@ -1,7 +1,9 @@
 title: Elena de Sus
 
-header_pages: 
+header_pages:
+ - portfolio.md
  - aboutme.md
+
 
 author: Málaga (España)
 email: elenadesus@gmail.com
