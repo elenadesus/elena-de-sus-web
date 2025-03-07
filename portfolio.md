@@ -3,7 +3,7 @@ title: "Portfolio"
 ---
 ## 2025
 
-[Wim Vanderbauwhede es profesor de Informática en la Universidad de Glasgow: “¿Queremos quemar el planeta para producir ilustraciones baratas con IA?”](https://ctxt.es/es/20250201/Politica/48565/Elena-de-Sus-entrevista-Wim-Vanderbauwhede-IA-deepseek-medioambiente.htm)
+[Wim Vanderbauwhede, profesor de Informática en la Universidad de Glasgow: “¿Queremos quemar el planeta para producir ilustraciones baratas con IA?”](https://ctxt.es/es/20250201/Politica/48565/Elena-de-Sus-entrevista-Wim-Vanderbauwhede-IA-deepseek-medioambiente.htm)
 
 [El capitalismo se echa a dormir](https://ctxt.es/es/20250101/Firmas/48346/Elena-de-Sus-capitalismo-Trump-ultraderecha-Zuckerberg-Musk-EEUU-woke.htm)
 ## 2024
